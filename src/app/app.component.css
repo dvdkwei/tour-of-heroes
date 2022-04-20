@@ -37,7 +37,10 @@ button:disabled {
   color: #aaa;
   cursor: auto;
 }
-
+nav {
+  display: inline-flex;
+  column-gap: 10px;
+}
 /* everywhere else */
 * {
   font-family: Arial, Helvetica, sans-serif;
